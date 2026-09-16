@@ -88,17 +88,6 @@ cada cenário simulado, usando as funções `para_binario()` e
   (saída textual) demonstram como o processador se comunica com o mundo
   externo.
 
-## Como executar (Wokwi)
-
-1. Criar um novo projeto MicroPython (Raspberry Pi Pico) em
-   [wokwi.com](https://wokwi.com).
-2. Substituir o conteúdo de `main.py` pelo arquivo deste repositório.
-3. Substituir o `diagram.json` pelo arquivo deste repositório (já
-   configura o Pico e os três LEDs com resistores de 220 Ω nos pinos
-   GP15, GP14 e GP13).
-4. Iniciar a simulação e acompanhar o Monitor Serial — o programa
-   percorre automaticamente as três situações em loop, com 4 segundos
-   entre cada uma.
 
 ## Estrutura do repositório
 
@@ -113,4 +102,3 @@ cada cenário simulado, usando as funções `para_binario()` e
 ## Vídeo e entrega
 
 - Vídeo (YouTube, não listado): *a preencher*
-- Repositório GitHub: *a preencher*
