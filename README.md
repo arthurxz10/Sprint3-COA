@@ -101,4 +101,4 @@ cada cenário simulado, usando as funções `para_binario()` e
 
 ## Vídeo e entrega
 
-- Vídeo (YouTube, não listado): *a preencher*
+- Vídeo (YouTube, não listado): https://youtu.be/u7yV9oiq8GM
